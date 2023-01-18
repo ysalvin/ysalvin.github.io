@@ -132,6 +132,7 @@ export default {
       let r2 = this.currency_data[this.currency_two];
       // console.log(r1, r2);
       this.base_rate=1/r1*r2;
+      this.calculate();
     },
 
     switch_button(event){
