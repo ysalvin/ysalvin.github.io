@@ -1,14 +1,9 @@
-# helloWorld
+# Currency Exchange App
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+This web app use vue.js with jQuery for sending the GET request to the api.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+I use the Open Exchange API for getting the data. Since I am use the free plan, a limited quota 10000 is setted for each month. 
 
 ## Project Setup
 
